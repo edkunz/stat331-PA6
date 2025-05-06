@@ -1,0 +1,6 @@
+---
+title: "Practice Activity 6"
+format: html
+embed-resources: true
+---
+
