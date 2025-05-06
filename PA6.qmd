@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Elliot Kunz, Tevan Kim, Andrew Dange"
 format: html
 embed-resources: true
 ---
