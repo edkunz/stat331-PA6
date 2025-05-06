@@ -1,7 +1,11 @@
 ---
 title: "Practice Activity 6"
-author: "Elliot Kunz, Tevan Kim, Andrew Dange"
+author: "Elliot Kunz, Tevan Kim, Andrew Denge"
 format: html
 embed-resources: true
 ---
+
+```{r}
+11*11
+```
 
