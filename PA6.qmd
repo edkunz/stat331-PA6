@@ -4,3 +4,7 @@ format: html
 embed-resources: true
 ---
 
+```{r}
+13 * 13
+```
+
