@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Tevan, Elliot, Andrew"
 format: html
 embed-resources: true
 ---
